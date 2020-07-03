@@ -85,13 +85,13 @@ Circuito Eléctrico hecho en Tinkercad (Tercer caso)
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/tercer%20caso.png)
 
-Fig 5 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso 
+Fig 6 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso 
 
 5. LISTAS DE COMPONENTES
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Lista%20de%20componentes.png)
 
-Fig 5 .Descripción de los componenetes usados en el simulador Tinkercad.
+Fig 7 .Descripción de los componenetes usados en el simulador Tinkercad.
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
