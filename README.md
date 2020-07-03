@@ -139,7 +139,7 @@ Fig 5 .Descripción de los componenetes usados en el simulador Tinkercad.
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
-![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/Cronograma.png)
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Cronograma.png)
 
 12. BIBLIOGRAFÍA 
 
