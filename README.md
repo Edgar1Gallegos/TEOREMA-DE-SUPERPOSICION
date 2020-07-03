@@ -51,9 +51,9 @@ g. Resuelva el sistema de ecuaciones simultáneas para cada tensión desconocida
 
 Circuito Eléctrico
 
-![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/Diagrama.jpg)
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Diagrama%20del%20circuito.png)
 
-Fig 2 .Circuito eléctrico, identificando nodos
+Fig 2 .Circuito eléctrico, identificando sus respectivas fuentes de voltaje
 
 Descripción del circuito
 
@@ -65,19 +65,31 @@ Descripción del circuito
 
 Circuito Eléctrico hecho en Tinkercad
 
-![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/Circuito%20armado%20.jpg)
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Circuito%20armado.png)
 
 Fig 3 .Implementación del circuito eléctrico en el simulador Tinkercad
 
-Circuito Eléctrico con mediciones realizado en Proteus 
+Circuito Eléctrico hecho en Tinkercad (Primer caso)
 
-![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/Circuito_Proteus.png)
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Primer%20caso.png)
 
-Fig 4 .Implementación del circuito eléctrico en el programa Proteus
+Fig 4 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al primer caso 
+
+Circuito Eléctrico hecho en Tinkercad (Segundo caso)
+
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Segundo%20caso.png)
+
+Fig 5 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al segundo caso
+
+Circuito Eléctrico hecho en Tinkercad (Tercer caso)
+
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/tercer%20caso.png)
+
+Fig 5 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso 
 
 5. LISTAS DE COMPONENTES
 
-![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/componentes%20.jpg)
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Lista%20de%20componentes.png)
 
 Fig 5 .Descripción de los componenetes usados en el simulador Tinkercad.
 
