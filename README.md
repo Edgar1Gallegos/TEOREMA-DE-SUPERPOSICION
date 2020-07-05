@@ -77,11 +77,13 @@ Fig 4 .Implementación del circuito eléctrico en el simulador Tinkercad. Con me
 
 Circuito Eléctrico hecho en Tinkercad (Segundo caso)
 
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Segundo%20caso.png)
 
 Fig 5 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al segundo caso
 
 Circuito Eléctrico hecho en Tinkercad (Tercer caso)
 
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tercer%20caso.png)
 
 Fig 6 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso 
 
