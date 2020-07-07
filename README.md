@@ -117,11 +117,13 @@ Fig 7 .Descripción de los componenetes usados en el simulador Tinkercad.
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
-| Nodo| Resultados Analíticos | Resultados Experimentales| Resultados Simulados|
-| --    |                 ---- |-------------             |----------------      |
-| A |                   2.81V| 2.82V                   |2.82V              |
-|B  |                   4.80V |4.80V                    |4.80V               |              
-|C  |                   0V   | 0V                   |0V                 |
+| Voltaje total (VA) | Voltaje (VA) cuando V2=0| Voltaje (VA) cuando V1=0|
+| --                 |                 ------- |-------------            |
+| Calculado | Medido | Calculado  | Medido     |    Calculado | Medido   |
+| --                 |                 ------- |-------------            |
+| 0.95V | 0.95V      | 0.95V | 0.95V           |           0.95V | 0.95V |
+              
+
 
 8. PORCENTAJE DE ERROR.
 
