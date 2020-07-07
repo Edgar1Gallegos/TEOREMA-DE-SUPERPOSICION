@@ -18,8 +18,9 @@ Pasos a realizar:
 1) Se anulan todas las fuentes menos una:
 
 NOTA: 
-Anular una fuente de tensión es cortocircuitarla.
-Anular una fuente de corriente es dejarla en circuito abierto.
+
+* Anular una fuente de tensión es cortocircuitarla.
+* Anular una fuente de corriente es dejarla en circuito abierto.
 
 2) Se calcula la respuesta del circuito (tensión o corriente) a la única fuente que hemos dejado.
 
