@@ -2,7 +2,7 @@
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
-El análisis de nodos facilita el uso para tratar con los circuitos eléctricos, donde se afirma que la suma de las corrientes que entran en un nodo es igual a las que salen, a partir de la teoría fundamental de circuitos eleéctricos, se plantean las preguntas de esta práctica de laboratorio ¿Cómo se comporta en realidad la corriente eléctrica en los nodos?
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos. De este modo utilizaremos el teorema de superposición el cual es solo aplicable en circuitos eléctricos lineales, ya que nos permite calcular la corriente o el voltaje en cualquier rama de un circuito estimulado por varias fuentes de energía, ya sean de corriente o de voltaje. De acuerdo a este teorema, el valor de la corriente o del voltaje en una rama de un circuito estimulado por varias fuentes se produce por la superposición de los estímulos de cada una de ellas.
 
 2. OBJETIVOS
 
@@ -121,7 +121,7 @@ Fig 7 .Descripción de los componenetes usados en el simulador Tinkercad.
 
 Fig 8 .Medición de voltaje aplicando superposición
 
-![]()
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tabla_corriente.png)
 
 Fig 9 .Medición de corriente aplicando superposición              
 
