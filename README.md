@@ -121,6 +121,7 @@ Fig 7 .Descripción de los componenetes usados en el simulador Tinkercad.
 
 Fig 8 .Medición de voltaje aplicando superposición
 
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tabla_corriente.png)
 
 Fig 9 .Medición de corriente aplicando superposición              
 
