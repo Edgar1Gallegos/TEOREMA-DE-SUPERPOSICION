@@ -14,18 +14,23 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 3. MARCO TEÓRICO 
 
-El teorema de superposición establece que en un circuito lineal con varias fuentes, la corriente y el voltaje para cualquier elemento en el circuito es la suma de las corrientes y voltajes producidos por cada fuente que actúa de manera independiente.
+El teorema de superposición, en circuitos eléctricos, establece que el voltaje entre dos puntos, o la corriente a través de ellos, es la suma algebraica de los voltajes (o de las corrientes si es el caso), debidos a cada fuente, como si cada una actuara de manera independiente.
+Este teorema permite analizar circuitos lineales que contengan más de una fuente independiente, ya que solamente se requiere calcular la contribución de cada una por separado.
 
-Para calcular la contribución de cada fuente de forma independiente, todas las demás fuentes deben eliminarse (desconectar) y reemplazarse sin afectar el resultado final. Al eliminar una fuente de voltaje, su voltaje debe establecerse en cero, lo que equivale a reemplazar la fuente de voltaje con un cortocircuito. Al eliminar una fuente de corriente, su corriente debe establecerse en cero, lo que equivale a reemplazar la fuente de corriente con un circuito abierto.
+La dependencia lineal es determinante para que el teorema se aplique. Un circuito lineal es aquel cuya respuesta es directamente proporcional a la entrada.
 
-Cuando suma las contribuciones de las fuentes, debe tener cuidado de tener en cuenta sus signos. Es mejor asignar una dirección de referencia a cada cantidad desconocida, si aún no se ha dado.
-El voltaje o corriente total se calcula como la suma algebraica de las contribuciones de las fuentes. Si una contribución de una fuente tiene la misma dirección que la dirección de referencia, tiene un signo positivo en la suma; si tiene la dirección opuesta, entonces un signo negativo.
+Por ejemplo, la ley de Ohm aplicada a una resistencia eléctrica establece que V = i.R, donde V es el voltaje, R es la resistencia e i es la corriente. Se trata entonces de una dependencia lineal del voltaje y la corriente en una resistencia.
 
-Tenga en cuenta que si las fuentes de voltaje o corriente tienen resistencia interna, debe permanecer en el circuito y aún debe considerarse. En TINA, puede asignar una resistencia interna al voltaje de CC y las fuentes de corriente, mientras usa el mismo símbolo esquemático. Por lo tanto, si desea ilustrar el teorema de superposición y al mismo tiempo utilizar fuentes con resistencia interna, solo debe establecer el voltaje (o corriente) de la fuente en cero, lo que deja intacta la resistencia interna de la fuente. Alternativamente, puede reemplazar la fuente con una resistencia igual a su resistencia interna.
+En circuitos lineales, el principio de superposición se aplica teniendo en cuenta lo siguiente:
+-Hay que considerar cada fuente de voltaje independiente por separado y para ello es necesario apagar todas las demás. Basta con poner a 0 V todas las que no estén bajo análisis o bien sustituirlas en el esquema con un cortocircuito.
+-Si la fuente es de corriente entonces hay que abrir el circuito.
+-Cuando se considera la resistencia interna de las fuentes tanto de corriente como de voltaje, estas deben permanecer en su lugar, formando parte del resto del circuito.
+-Si existen fuentes dependientes, deben quedar tal cual como aparecen en el circuito.
 
-Para usar el teorema de superposición con corrientes y voltajes de circuito, todos los componentes deben ser lineales; es decir, para todos los componentes resistivos, la corriente debe ser proporcional al voltaje aplicado (satisfaciendo la ley de Ohm).
+Ademas, el teorema de superposición ayuda a encontrar:
 
-Tenga en cuenta que el teorema de superposición no es aplicable a la potencia, ya que la potencia no es una cantidad lineal. La potencia total entregada a un componente resistivo debe determinarse utilizando la corriente total o el voltaje total a través del componente y no puede determinarse mediante una simple suma de las potencias producidas por las fuentes de forma independiente.
+* Valores de tensión, en una posición de un circuito, que tiene más de una fuente de tensión y/o corriente.
+* Valores de corriente, en un circuito con más de una fuente de tensión y/o voltaje.
 
 Pasos a realizar:
 
