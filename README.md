@@ -117,12 +117,13 @@ Fig 7 .Descripción de los componenetes usados en el simulador Tinkercad.
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
-| Voltaje total (VA) | Voltaje (VA) cuando V2=0| Voltaje (VA) cuando V1=0|
-| --                 |                 ------- |-------------            |
-| Calculado | Medido | Calculado  | Medido     |    Calculado | Medido   |
-| 0.95V | 0.95V      | 0.95V | 0.95V           |           0.95V | 0.95V |
-              
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tabla_voltaje.png)
 
+Fig 8 .Medición de voltaje aplicando superposición
+
+|[](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tabla_corriente.png)
+
+Fi9 9.Medición de corriente aplicando superposición              
 
 8. PORCENTAJE DE ERROR.
 
