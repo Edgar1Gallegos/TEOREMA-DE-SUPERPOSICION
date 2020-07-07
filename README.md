@@ -14,6 +14,19 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 3. MARCO TEÓRICO 
 
+Pasos a realizar:
+1) Se anulan todas las fuentes menos una:
+
+NOTA: 
+Anular una fuente de tensión es cortocircuitarla.
+Anular una fuente de corriente es dejarla en circuito abierto.
+
+2) Se calcula la respuesta del circuito (tensión o corriente) a la única fuente que hemos dejado.
+
+3) Se repiten los pasos 1 y 2 con cada fuente.
+
+4) Se suman las respuestas de cada fuente.
+
 El análisis de nodos es posible cuando todos los nodos tienen conductancia. Este método produce un sistema de ecuaciones, que puede resolverse a mano si es pequeño, o también puede resolverse rápidamente usando álgebra lineal en un computador. Por el hecho de que forme ecuaciones muy sencillas, este método es una base para muchos programas de simulación de circuitos (Por ejemplo, Tinkercad). Cuando los elementos del circuito no tienen conductancia, se puede usar una extensión más general del análisis de nodos, El análisis de nodos modificado.
 
 ¿Qué es un nodo?
