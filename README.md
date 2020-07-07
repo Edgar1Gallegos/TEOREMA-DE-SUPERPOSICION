@@ -14,7 +14,21 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 3. MARCO TEÓRICO 
 
+El teorema de superposición establece que en un circuito lineal con varias fuentes, la corriente y el voltaje para cualquier elemento en el circuito es la suma de las corrientes y voltajes producidos por cada fuente que actúa de manera independiente.
+
+Para calcular la contribución de cada fuente de forma independiente, todas las demás fuentes deben eliminarse (desconectar) y reemplazarse sin afectar el resultado final. Al eliminar una fuente de voltaje, su voltaje debe establecerse en cero, lo que equivale a reemplazar la fuente de voltaje con un cortocircuito. Al eliminar una fuente de corriente, su corriente debe establecerse en cero, lo que equivale a reemplazar la fuente de corriente con un circuito abierto.
+
+Cuando suma las contribuciones de las fuentes, debe tener cuidado de tener en cuenta sus signos. Es mejor asignar una dirección de referencia a cada cantidad desconocida, si aún no se ha dado.
+El voltaje o corriente total se calcula como la suma algebraica de las contribuciones de las fuentes. Si una contribución de una fuente tiene la misma dirección que la dirección de referencia, tiene un signo positivo en la suma; si tiene la dirección opuesta, entonces un signo negativo.
+
+Tenga en cuenta que si las fuentes de voltaje o corriente tienen resistencia interna, debe permanecer en el circuito y aún debe considerarse. En TINA, puede asignar una resistencia interna al voltaje de CC y las fuentes de corriente, mientras usa el mismo símbolo esquemático. Por lo tanto, si desea ilustrar el teorema de superposición y al mismo tiempo utilizar fuentes con resistencia interna, solo debe establecer el voltaje (o corriente) de la fuente en cero, lo que deja intacta la resistencia interna de la fuente. Alternativamente, puede reemplazar la fuente con una resistencia igual a su resistencia interna.
+
+Para usar el teorema de superposición con corrientes y voltajes de circuito, todos los componentes deben ser lineales; es decir, para todos los componentes resistivos, la corriente debe ser proporcional al voltaje aplicado (satisfaciendo la ley de Ohm).
+
+Tenga en cuenta que el teorema de superposición no es aplicable a la potencia, ya que la potencia no es una cantidad lineal. La potencia total entregada a un componente resistivo debe determinarse utilizando la corriente total o el voltaje total a través del componente y no puede determinarse mediante una simple suma de las potencias producidas por las fuentes de forma independiente.
+
 Pasos a realizar:
+
 1) Se anulan todas las fuentes menos una:
 
 NOTA: 
@@ -27,39 +41,6 @@ NOTA:
 3) Se repiten los pasos 1 y 2 con cada fuente.
 
 4) Se suman las respuestas de cada fuente.
-
-El análisis de nodos es posible cuando todos los nodos tienen conductancia. Este método produce un sistema de ecuaciones, que puede resolverse a mano si es pequeño, o también puede resolverse rápidamente usando álgebra lineal en un computador. Por el hecho de que forme ecuaciones muy sencillas, este método es una base para muchos programas de simulación de circuitos (Por ejemplo, Tinkercad). Cuando los elementos del circuito no tienen conductancia, se puede usar una extensión más general del análisis de nodos, El análisis de nodos modificado.
-
-¿Qué es un nodo?
-
-En ingeniería eléctrica y electrónica, un nodo es un punto donde dos o más componentes tienen una conexión común. Corresponde a una unión de alambres hechos de material conductor que poseen una resistencia eléctrica cercana a 0.
-
-![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/nodo.png)
-
-Fig 1 .La corriente que entra a un nodo es igual a la corriente que sale del mismo. i1 + i4 = i2 + i3
-
-
-¿En qué consiste el método de nodos?
-
-El método de los voltajes de nodos consiste en determinar los voltajes en los nodos (puntos de intercepción de las ramas de un circuito eléctrico), y luego calcular las corrientes en las ramas. Se fundamenta en la Ley de Kirchhoff de corrientes, la cual plantea que las cargas no se pueden acumular en ningún nodo, y en la Ley de Ohm.
-
-Es fácil hallar un nodo usando la ley de Ohm o aplicando la ley de Kirchhoff de corrientes teniendo en cuenta las corrientes que entran a un nodo, teniendo en cuenta variables como las impedancias que comparte el nodo con respecto al voltaje que cae sobre el nodo. Cuando miramos el esquema de un circuito, los cables ideales tienen una resistencia de cero (esto no pasa en la vida real, pero es una buena aproximación). Si se asume que no hay cambio de potencial en cualquier parte del cable, todo el cable entre cualquier componente de un circuito es considerado parte del mismo nodo
-
-Pasos para aplicar el método de nodos
-
-a. Localice los segmentos de cable conectados al circuito. Estos serán los nodos que se usarán para el método.
-
-b. Seleccione un nodo de referencia (polo a tierra). Se puede elegir cualquier nodo ya que esto no afecta para nada los cálculos; pero elegir el nodo con más conexiones podría simplificar el análisis.
-
-c. Identifique los nodos que están conectados a fuentes de voltaje que tengan una terminal en el nodo de referencia. En estos nodos la fuente define la tensión del nodo. Si la fuente es independiente, la tensión del nodo es conocida. En estos nodos no se aplica la LCK.
-
-d. Asigne una variable para los nodos que tengan tensiones desconocidas. Si la tensión del nodo ya se conoce, no es necesario asignarle una variable.
-
-e. Para cada uno de los nodos, se plantean las ecuaciones de acuerdo con las Leyes de Kirchhoff. Básicamente, sume todas las corrientes que pasan por el nodo e igualamos a 0. Por lo general el número de ecuaciones es menor a al número de nodos localizados.
-
-f. Si hay fuentes de tensión entre dos tensiones desconocidas, una esos dos nodos como un supernodo, haciendo el sumatorio de todas las corrientes que entran y salen en ese supernodo. Las tensiones de los dos nodos simples en el supernodo están relacionadas por la fuente de tensión intercalada.
-
-g. Resuelva el sistema de ecuaciones simultáneas para cada tensión desconocida.
 
 4. DIAGRAMAS
 
