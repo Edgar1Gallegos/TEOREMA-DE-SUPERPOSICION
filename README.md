@@ -120,7 +120,6 @@ Fig 7 .Descripción de los componenetes usados en el simulador Tinkercad.
 | Voltaje total (VA) | Voltaje (VA) cuando V2=0| Voltaje (VA) cuando V1=0|
 | --                 |                 ------- |-------------            |
 | Calculado | Medido | Calculado  | Medido     |    Calculado | Medido   |
-| --                 |                 ------- |-------------            |
 | 0.95V | 0.95V      | 0.95V | 0.95V           |           0.95V | 0.95V |
               
 
