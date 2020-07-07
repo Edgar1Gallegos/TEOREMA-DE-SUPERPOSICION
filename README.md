@@ -123,7 +123,7 @@ Fig 8 .Medición de voltaje aplicando superposición
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tabla_corriente.png)
 
-Fi9 9.Medición de corriente aplicando superposición              
+Fig 9 .Medición de corriente aplicando superposición              
 
 8. PORCENTAJE DE ERROR.
 
