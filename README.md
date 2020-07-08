@@ -6,13 +6,13 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 2. OBJETIVOS
 
-* Aplicar los conceptos teóricos del teorema superposición para la resolución o análisis de los circuitos con el fin de encontrar los valores de voltaje y corriente.
+* Aplicar los conceptos teóricos del teorema superposición, mediante la realización de la practica en el simulador TINKERCAD, para la resolución o análisis de los circuitos con el fin de encontrar los valores de voltaje y corriente.
 
 * Analizar los pasos que se requieren para aplicar el teorema de superposición.
 
 * Comprobar que los resultados de voltaje y corriente calculados son iguales a los medidos en nuestra simulación
 
-* Comparar los porcentajes de error entre el valor calculado y el medido en la aplicación TINKERCAD.
+* Comparar los porcentajes de error entre el valor calculado y el medido en el simulador TINKERCAD.
 
 3. MARCO TEÓRICO 
 
@@ -71,7 +71,7 @@ Fig 2. Circuito eléctrico, identificando sus respectivas fuentes de voltaje
 Descripción del circuito
 
 * En el diagrama se observa dos fuentes voltajes independientes, conectadas a los extremos del circuito.
-* Además, dentro del circuito se aprecia 4 resistencias medidas en KOhms
+* Además, dentro del circuito se aprecia 4 resistencias medidas en KOhms y Ohms.
 * Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la práctica reconocemos 3 nodos principales.
 * Se tiene que la resistencia de 1 KOhm forma nodo con las resistencias de 820 Ohm y 2.2 KOhm. La resistencia de 820 Ohm forma un nodo con las resistencias de 470 Ohm y con la segunda fuente de voltaje. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
 * Además se puede identificar 3 mallas, colocando una intensidad en cada malla denotándolas como I1, I2, I3 todas en sentido de las manecillas del reloj.
@@ -122,7 +122,7 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 * Colocamos un multímetro y conectamos en paralelo con el circuito, el color negro es el negativo mientras que el color rojo es el positivo. 
 
-* Realizamos las mediciones de volatje y resistencia pedidas en la guía.
+* Realizamos las mediciones de volatje y resistencia, aplicando el teorema de superposición, pedidas en la guía.
 
 * Anotamos los valores obtenidos en las tablas de la guía de laboratorio.
 
@@ -146,25 +146,21 @@ Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
 9. CONCLUSIONES 
 
-* Se concluye de experimental, que para encontrar el voltaje "VA" y corriente "Ix" de nuestro circuito mediante el teorema de superposcición es igual la suma de los voltajes y corrientes independientes de los dos circuitos analizados cuando V2=0 y V1=0.     
+* Se concluye que experimentalmente, para encontrar el voltaje "VA" y corriente "Ix" de nuestro circuito mediante el teorema de superposcición es igual la suma de los voltajes y corrientes independientes de los dos circuitos analizados cuando V2=0 y V1=0. 
 
-* Este método nos facilitó encontrar los voltajes que pueden encontrarse en el nodo y así nos podrá ayudar para encontrar la corriente que pase por las resistencias aplicando las fórmulas para facilitar el proceso.
+* En la práctica realizada en el simulador para suprimir las fuentes ideales de tensión se ponen uniones donde debería ir conectada esa fuente, de ese modo estariamos cumpliendo con la teoria donde, una fuente de voltaje se reemplaza por un cortocircuito. 
 
 * Este método se vuelve más fácil para analizar el circuito debido a que se toma un voltaje de referencia el cuál siempre es igual a cero y nos elimina una variable para calcular, permitiéndonos una resolución más rápida del ejercicio.
 
-* El porcentaje error nos demuestra que el informe se ha desarrollado de manera correcta y este caso existe en un solo nos un 0.35% de error entre el calculado y el medido, el cual es un porcentaje bajo y no afecta a los resultados.
-
-* Al momento de que la corriente emitida por las fuentes de volatje del circuito, ingrese a un nodo, dicha corriente va a obtener diferentes direcciones dependiendo de los elementos que tengamos conectados al nodo, en donde tubimos que relacionar un diferencial de volateje para asi formar un sistema de ecuaciones que nos llevaria a la respuesta.  
-
+* El porcentaje error nos demuestra que el informe se ha desarrollado de manera correcta y este caso nos da un 0.04% de error entre el calculado y el medido, el cual es un porcentaje bajo y no afecta a los resultados, esto debido también a que no sabemos con cuantos decimales trabaja el simulador TINKERCAD.
+ 
 10. RECOMENDACIONES 
 
-* Se recomienda cambiar el color de los cables a rojo y negro para de esta manera identificar cuáles son positivos o negativos, no crear una confusión al momento de conectar el circuito.
+* Se recomienda cambiar el color de los cables a rojo y negro para de esta manera identificar cuáles son positivos o negativos, y no crear una confusión al momento de conectar el circuito.
 
 * Tener en cuenta y verificar los valores de la fuente así como también el valor de las resistencias ya que muchas veces se equivoca al poner KOhm o Ohm.
 
-* Recomendamos una vez obtenido el sistema de ecuaciones relacionado al voltaje en cada nodo, utilizar el método de sustitución para resolver dicho sistema, ya que al no ser un sistema tan complejo se puede resolver fácilmente, en caso contrario usar un software que desarrolle el sistema encontrado.
-
-* Utilizar otros programas de simulación como "Proteus" para poder verificar los cálculos y poder tener una respuesta correcta. 
+* Recomendamos una vez obtenido el sistema de ecuaciones en cada caso del analisis, utilizar el método de determinantes, ya que es una forma mas dinámica y rapida para poder resolver este tipo ejercicios.
 
 11. CRONOGRAMA
 
@@ -174,9 +170,8 @@ Actividades desarrolladas a lo largo de la practica de laboratorio.
 
 12. BIBLIOGRAFÍA 
 
+Alexander, C, & Sadiku, M. (2006). Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw Hill.
 
-Alexander, C. 2006. Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw Hill.
-
-Boylestad, R. 2011. Introducción al Análisis de Circuitos.2da. Edición. Pearson.
+Boylestad, R. (2011). Introducción al Análisis de Circuitos.2da. Edición. Pearson.
 
 Dorf, R., & Svoboda, J. (2011). Circuitos eléctricos. México: Alfaomega.
