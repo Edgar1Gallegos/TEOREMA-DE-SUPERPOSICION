@@ -6,7 +6,7 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 2. OBJETIVOS
 
-* Aplicar los conceptos teóricos del teorema superposición para así poder resolver los circuitos y poder hallar los valores de voltajes y corrientes.
+* Aplicar los conceptos teóricos del teorema superposición para la resolución o análisis de los circuitos con el fin de encontrar los valores de voltaje y corriente.
 
 * Analizar los pasos que se requieren para aplicar el teorema de superposición.
 
