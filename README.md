@@ -29,7 +29,7 @@ i=corriente. Se trata entonces de una dependencia lineal del voltaje y la corrie
 
 En circuitos lineales, el principio de superposición se aplica teniendo en cuenta lo siguiente:
 
-* Hay que considerar cada fuente de voltaje independiente por separado y para ello es necesario apagar todas las demás. Basta con poner a 0 V todas las que no estén bajo análisis o bien sustituirlas en el esquema con un cortocircuito.
+* Hay que considerar cada fuente de voltaje independiente por separado y para ello es necesario apagar todas las demás fuentes. Basta con poner a 0 V todas las que no estén bajo análisis o bien sustituirlas en el esquema con un cortocircuito.
 * Si la fuente es de corriente entonces hay que abrir el circuito.
 * Cuando se considera la resistencia interna de las fuentes tanto de corriente como de voltaje, estas deben permanecer en su lugar, formando parte del resto del circuito.
 * Si existen fuentes dependientes, deben quedar tal cual como aparecen en el circuito.
