@@ -158,7 +158,7 @@ Fig 9 .Medición de corriente aplicando superposición
 
 * Recomendamos una vez obtenido el sistema de ecuaciones relacionado al voltaje en cada nodo, utilizar el método de sustitución para resolver dicho sistema, ya que al no ser un sistema tan complejo se puede resolver fácilmente, en caso contrario usar un software que desarrolle el sistema encontrado.
 
-* Utilizar otros programas para poder verificar los cálculos y poder tener una respuesta correcta. 
+* Utilizar otros programas de simulación como "Proteus" para poder verificar los cálculos y poder tener una respuesta correcta. 
 
 11. CRONOGRAMA
 
