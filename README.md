@@ -52,8 +52,7 @@ c) Se repiten los pasos 1 y 2 con cada fuente.
 
 d) Se suman las respuestas de cada fuente.
 
-![](![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Diagrama%20del%20circuito.png)
-
+![](![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/TEOREMA%20SUPERPOSICI%C3%93N.jpg)
 
 4. DIAGRAMAS
 
