@@ -19,15 +19,20 @@ Este teorema permite analizar circuitos lineales que contengan más de una fuent
 
 La dependencia lineal es determinante para que el teorema se aplique. Un circuito lineal es aquel cuya respuesta es directamente proporcional a la entrada.
 
-Por ejemplo, la ley de Ohm aplicada a una resistencia eléctrica establece que V = i.R, donde V es el voltaje, R es la resistencia e i es la corriente. Se trata entonces de una dependencia lineal del voltaje y la corriente en una resistencia.
+Por ejemplo, la ley de Ohm aplicada a una resistencia eléctrica establece que V = i.R, donde 
+
+V=voltaje 
+R=resistencia
+i=corriente. Se trata entonces de una dependencia lineal del voltaje y la corriente en una resistencia.
 
 En circuitos lineales, el principio de superposición se aplica teniendo en cuenta lo siguiente:
--Hay que considerar cada fuente de voltaje independiente por separado y para ello es necesario apagar todas las demás. Basta con poner a 0 V todas las que no estén bajo análisis o bien sustituirlas en el esquema con un cortocircuito.
--Si la fuente es de corriente entonces hay que abrir el circuito.
--Cuando se considera la resistencia interna de las fuentes tanto de corriente como de voltaje, estas deben permanecer en su lugar, formando parte del resto del circuito.
--Si existen fuentes dependientes, deben quedar tal cual como aparecen en el circuito.
 
-Ademas, el teorema de superposición ayuda a encontrar:
+* Hay que considerar cada fuente de voltaje independiente por separado y para ello es necesario apagar todas las demás. Basta con poner a 0 V todas las que no estén bajo análisis o bien sustituirlas en el esquema con un cortocircuito.
+* Si la fuente es de corriente entonces hay que abrir el circuito.
+* Cuando se considera la resistencia interna de las fuentes tanto de corriente como de voltaje, estas deben permanecer en su lugar, formando parte del resto del circuito.
+* Si existen fuentes dependientes, deben quedar tal cual como aparecen en el circuito.
+
+Además, el teorema de superposición ayuda a encontrar:
 
 * Valores de tensión, en una posición de un circuito, que tiene más de una fuente de tensión y/o corriente.
 * Valores de corriente, en un circuito con más de una fuente de tensión y/o voltaje.
