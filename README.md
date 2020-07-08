@@ -56,6 +56,8 @@ d) Se suman las respuestas de cada fuente.
 
 ![](https://raw.githubusercontent.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/master/img/TEOREMA%20SUPERPOSICI%C3%93N.jpg)
 
+Fig 1. Equivalenetes de fuentes independientes de voltaje y corriente al momento de aplicar el teorema de superposición.
+
 Podemos observar como se apaga las distintas fuentes(izquierda fuente de voltaje y en la derecha fuente de corriente), cabe recalcar que una fuente dependiente esa se le deja tal y como está. 
 
 4. DIAGRAMAS
@@ -64,7 +66,7 @@ Circuito Eléctrico
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Diagrama%20del%20circuito.png)
 
-Fig 2 .Circuito eléctrico, identificando sus respectivas fuentes de voltaje
+Fig 2. Circuito eléctrico, identificando sus respectivas fuentes de voltaje
 
 Descripción del circuito
 
@@ -78,31 +80,31 @@ Circuito Eléctrico hecho en Tinkercad
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Circuito%20armado.png)
 
-Fig 3 .Implementación del circuito eléctrico en el simulador Tinkercad
+Fig 3. Implementación del circuito eléctrico en el simulador Tinkercad
 
 Circuito Eléctrico hecho en Tinkercad (Primer caso)
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Primer%20caso.png)
 
-Fig 4 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al primer caso 
+Fig 4. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al primer caso 
 
 Circuito Eléctrico hecho en Tinkercad (Segundo caso)
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Segundo%20caso.png)
 
-Fig 5 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al segundo caso
+Fig 5. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al segundo caso
 
 Circuito Eléctrico hecho en Tinkercad (Tercer caso)
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tercer%20caso.png)
 
-Fig 6 .Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso 
+Fig 6. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso 
 
 5. LISTAS DE COMPONENTES
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Lista%20de%20componentes.png)
 
-Fig 7 .Descripción de los componenetes usados en el simulador Tinkercad.
+Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
@@ -130,15 +132,17 @@ Fig 7 .Descripción de los componenetes usados en el simulador Tinkercad.
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tabla_voltaje.png)
 
-Fig 8 .Medición de voltaje aplicando superposición
+Tabla 1. Medición de voltaje aplicando superposición.
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tabla_corriente.png)
 
-Fig 9 .Medición de corriente aplicando superposición              
+Tabla 2. Medición de corriente aplicando superposición.              
 
 8. PORCENTAJE DE ERROR.
 
-![](https://github.com/JavoEstevez/Analisis-de-Nodos/blob/master/img/11.jpg?raw=true)
+![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Porcentaje%20de%20error.png)
+
+Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
 9. CONCLUSIONES 
 
