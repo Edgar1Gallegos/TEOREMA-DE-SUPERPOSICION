@@ -10,6 +10,8 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 * Analizar los pasos que se requieren para aplicar el teorema de superposición.
 
+* Comprobar que los resultados de voltaje y corriente calculados son iguales a los medidos en nuestra simualación
+
 * Comparar los porcentajes de error entre el valor calculado y el medido en la aplicación TINKERCAD.
 
 3. MARCO TEÓRICO 
