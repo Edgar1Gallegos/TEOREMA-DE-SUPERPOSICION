@@ -116,11 +116,11 @@ Fig 7 .Descripción de los componenetes usados en el simulador Tinkercad.
 
 * Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 4 de valores de 1 KOhm, 0.47 KOhm, 2.2 KOhm y 0.82 KOhm.
 
-* Haciendo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde haga falta.
+* Haciendo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde hace falta.
 
-* Colocamos un multímetro y cambiamos la configuración del multímetro en volataje y conectamos en paralelo con el circuito, el color negro es el negativo mientras que el color rojo es el positivo. 
+* Colocamos un multímetro y conectamos en paralelo con el circuito, el color negro es el negativo mientras que el color rojo es el positivo. 
 
-* Realizamos las mediciones de volatje en cada nodo pedidas en la guía.
+* Realizamos las mediciones de volatje y resistencia pedidas en la guía.
 
 * Anotamos los valores obtenidos en las tablas de la guía de laboratorio.
 
