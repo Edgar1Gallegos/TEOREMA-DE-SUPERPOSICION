@@ -70,7 +70,7 @@ Fig 2. Circuito eléctrico, identificando sus respectivas fuentes de voltaje
 
 Descripción del circuito
 
-* En el diagrama se observa dos fuentes voltajes independientes, conectadas a los extremos del circuito.
+* En el diagrama se observa dos fuentes independientes de voltaje, conectadas a los extremos del circuito.
 * Además, dentro del circuito se aprecia 4 resistencias medidas en KOhms y Ohms.
 * Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la práctica reconocemos 3 nodos principales.
 * Se tiene que la resistencia de 1 KOhm forma nodo con las resistencias de 820 Ohm y 2.2 KOhm. La resistencia de 820 Ohm forma un nodo con las resistencias de 470 Ohm y con la segunda fuente de voltaje. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
