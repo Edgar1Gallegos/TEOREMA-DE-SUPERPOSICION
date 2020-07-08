@@ -150,7 +150,7 @@ Fig 9 .Medición de corriente aplicando superposición
 
 * El porcentaje error nos demuestra que el informe se ha desarrollado de manera correcta y este caso existe en un solo nos un 0.35% de error entre el calculado y el medido, el cual es un porcentaje bajo y no afecta a los resultados.
 
-* Al momento de que la corriente emitida por las fuentes de volatje del circuito, ingrese a un nodo, dicha corriente va a obtener diferecntes direeciones dependiendo de los elementos que tengamos conectados al nodo, en donde tubimos que relacionar un diferencial de volateje para asi formar un sistema de ecuaciones que nos llevaria a la respuesta.  
+* Al momento de que la corriente emitida por las fuentes de volatje del circuito, ingrese a un nodo, dicha corriente va a obtener diferentes direcciones dependiendo de los elementos que tengamos conectados al nodo, en donde tubimos que relacionar un diferencial de volateje para asi formar un sistema de ecuaciones que nos llevaria a la respuesta.  
 
 10. RECOMENDACIONES 
 
