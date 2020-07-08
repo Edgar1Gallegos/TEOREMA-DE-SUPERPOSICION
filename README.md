@@ -54,7 +54,7 @@ d) Se suman las respuestas de cada fuente.
 
 ![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/TEOREMA%20SUPERPOSICI%C3%93N.jpg)
 
-Podemos observar como se le apaga a las fuentes.
+Podemos observar como se le apaga las distintas fuentes, cabe recalcar que una fuente dependiente esa se le deja tal y como esta.
 
 
 4. DIAGRAMAS
