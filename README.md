@@ -6,11 +6,11 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 2. OBJETIVOS
 
-* Aplicar los conceptos teoricos de la superposcición para asi poder resolver los circuitos y poder hallar los valores de voltajes y corrientes.
+* Aplicar los conceptos teóricos del teorema superposición para así poder resolver los circuitos y poder hallar los valores de voltajes y corrientes.
 
-* Analizar los porcentajes de error entre el valor calculado y el medido en la aplicacion TINKERCAD.
+* Analizar los pasos que se requieren para aplicar el teorema de superposición.
 
-* Verificar que las corrientes que entran en un nodo son iguales a las que salen del mismo y de esta manera encontrar los valores de las tensiones que caen en cada uno de ellos.
+* Comparar los porcentajes de error entre el valor calculado y el medido en la aplicación TINKERCAD.
 
 3. MARCO TEÓRICO 
 
