@@ -39,18 +39,18 @@ Además, el teorema de superposición ayuda a encontrar:
 
 Pasos a realizar:
 
-1) Se anulan todas las fuentes menos una:
+a) Se anulan todas las fuentes menos una:
 
 NOTA: 
 
 * Anular una fuente de tensión es cortocircuitarla.
 * Anular una fuente de corriente es dejarla en circuito abierto.
 
-2) Se calcula la respuesta del circuito (tensión o corriente) a la única fuente que hemos dejado.
+b) Se calcula la respuesta del circuito (tensión o corriente) a la única fuente que hemos dejado.
 
-3) Se repiten los pasos 1 y 2 con cada fuente.
+c) Se repiten los pasos 1 y 2 con cada fuente.
 
-4) Se suman las respuestas de cada fuente.
+d) Se suman las respuestas de cada fuente.
 
 4. DIAGRAMAS
 
