@@ -54,8 +54,7 @@ d) Se suman las respuestas de cada fuente.
 
 ![](https://raw.githubusercontent.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/master/img/TEOREMA%20SUPERPOSICI%C3%93N.jpg)
 
-Podemos observar como se le apaga las distintas fuentes, cabe recalcar que una fuente dependiente esa se le deja tal y como esta.
-
+Podemos observar como se apaga las distintas fuentes(izquierda fuente de voltaje y en la derecha fuente de corriente), cabe recalcar que una fuente dependiente esa se le deja tal y como esta, 
 
 4. DIAGRAMAS
 
